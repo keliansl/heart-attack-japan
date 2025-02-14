@@ -21,7 +21,7 @@ This project aims to predict the risk of heart attacks in Japanese individuals. 
   - Voting Classifier (planned but not implemented due to dataset restrictions)
 - **Optimization**:
   - **Hyperparameter Tuning**: Performed using GridSearch.
-  - **Metric Focus**: Training was optimized for **F1-score**, ensuring a balance between precision and recall.
+  - **Metric Focus**: Training was optimized for F1-score, although I would have preferred to focus on Recall scores, but the dataset went private before I could.
 
 ## 📈 Results
 - The best performing models were **LightGBM and XGBoost**, both trained on SMOTE-Tomek resampled data.
