@@ -1,7 +1,7 @@
 # Heart Attack Prediction in Japan (Youth vs Adult)
 
 ## 📌 Project Overview
-This project aims to predict the risk of heart attacks in Japanese individuals, distinguishing between youth and adults. Using machine learning techniques, we analyze a dataset containing various health and lifestyle factors to determine their impact on cardiovascular diseases.
+This project aims to predict the risk of heart attacks in Japanese individuals. Using machine learning techniques, we analyze a dataset containing various health and lifestyle factors to determine their impact on cardiovascular diseases.
 
 ## 📊 Dataset
 - **Source**: [Kaggle - Heart Attack in Japan (Youth vs Adult)](https://www.kaggle.com/datasets/ashaychoudhary/heart-attack-in-japan-youth-vs-adult)
