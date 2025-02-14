@@ -1,4 +1,4 @@
-# Heart Attack Prediction in Japan (Youth vs Adult)
+# Heart Attack Prediction in Japan
 
 ## 📌 Project Overview
 This project aims to predict the risk of heart attacks in Japanese individuals. Using machine learning techniques, we analyze a dataset containing various health and lifestyle factors to determine their impact on cardiovascular diseases.
