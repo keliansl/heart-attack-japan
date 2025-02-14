@@ -15,6 +15,7 @@ This project aims to predict the risk of heart attacks in Japanese individuals. 
 
 ## 🚀 Machine Learning Models
 - **Algorithms Used**:
+  - Random Forest
   - LightGBM
   - XGBoost
   - Voting Classifier (planned but not implemented due to dataset restrictions)
